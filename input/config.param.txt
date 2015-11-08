@@ -1,0 +1,9 @@
+nodes=140
+edges=600
+clusters=11
+modularity_MinValue=0.2
+modularity_MaxValue=0.9
+number of graphs=10
+coupling_strength=15
+coupling_probability=0.99
+running_time=40
